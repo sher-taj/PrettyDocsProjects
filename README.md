@@ -1,2 +1,2 @@
 # PrettyDocsProjects
-This is a compelte project for PrettyDocs
+This is a complete project for PrettyDocs
