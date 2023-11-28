@@ -1,0 +1,157 @@
+.container-fluid-1{
+    height: 10px;
+    background-color: #40babd;
+}
+
+.container-fluid{
+
+    height: 400px;
+    background-color: #494d55
+}
+.form-input{
+  width: 600px;
+  height: 40px;
+ border-radius: 20px;
+ border: none;
+ padding: 10px;
+ padding-bottom: 15px;
+ outline: none;
+ 
+
+}
+.container-fluid2{
+  background-color: black;
+  width: 100% !important;
+}
+
+input {
+   
+  background-image: url("1410285.png");
+  background-repeat: no-repeat;
+  background-size: 20px; 
+  background-position: right;
+ 
+
+
+}
+.button-style{
+  display: flex;
+align-items: center;
+justify-content: center;
+}
+.img-github{
+  width: 15px;
+  margin-bottom: 2px;
+  margin-right: 3px;
+
+
+
+}
+.btn-style{
+  font-size: 15px;
+  display: flex;
+
+width: 80px;
+height: 35px;
+}
+.img-github-2{
+  width: 15px;
+  margin-bottom: 2px;
+
+
+
+}
+.btn-style-2{
+  width: 80px;
+height: 35px;
+margin-left: 10px;
+}
+.button-style{
+  margin-top: 20px;
+
+}
+.header-button{
+  font-size: 13px;
+  border-radius: 10px;
+  width: 200px;
+  height: 30px;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.iconbody {
+  width: 20px;
+  height: 20px;
+  opacity: 0.9;
+}
+.bodybtn{
+  font-weight: bolder;
+ color:#ffffff;
+ opacity: 0.9;
+}
+.threebox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px;
+  column-gap: 30px;
+  
+}
+.box-1{
+  width: 300px;
+  height: 250px;
+ 
+border-top: 3px inset #69f789;
+ box-shadow: 1px  1px  1px  1px #cdcdcd;
+
+  
+
+}
+.box-11{
+  width: 300px;
+  height: 250px;
+ 
+border-top: 3px inset rgb(255, 60, 255);
+ box-shadow: 1px  1px  1px  1px #cdcdcd;
+
+  
+
+}
+.box-2{
+  width: 300px;
+  height: 250px;
+ 
+  border-top: 3px inset #ea5395;
+ box-shadow: 1px  1px  1px  1px #cdcdcd;
+
+  
+
+}
+.box-3{
+  width: 300px;
+  height: 250px;
+ 
+border-top: 3px inset #58bbee;
+ box-shadow: 1px  1px  1px  1px #cdcdcd;
+
+  
+
+}
+.icon-prices{
+  color: #69f789;
+    font-size: 30px;
+
+    padding-top: 30px;
+    padding-left: 100px;
+}
+.p{
+  padding-top: 20px;
+ opacity: 0.5;
+ font-weight: bold;
+ margin-left: 70px;
+}
+.p-2{
+  justify-content: center;
+  text-align: center; 
+  text-align: justify;
+
+}
